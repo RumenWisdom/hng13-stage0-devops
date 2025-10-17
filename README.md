@@ -1,6 +1,6 @@
 README.md file containing:
 
 Name: Igbinosa Osarumen Wisdom  
-Slack Username:  Ruler
+Slack Username:  Rumenwisdom
 Project Description: This is my Stage 0 DevOps task submission for HNG13.  
-Server IP/Domain:(to be added after deployment)
+Server IP/Domain: https://marya-unconscientious-sammie.ngrok-free.dev 
