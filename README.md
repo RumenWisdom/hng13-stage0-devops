@@ -1,6 +1,8 @@
-README.md file containing:
+README.md 
+
+This file contains:
 
 Name: Igbinosa Osarumen Wisdom  
-Slack Username:  Rumenwisdom
+Slack Username:  @Rumenwisdom
 Project Description: This is my Stage 0 DevOps task submission for HNG13.  
-Server IP/Domain: https://marya-unconscientious-sammie.ngrok-free.dev 
+Server IP/Domain: http://16.170.253.103 
